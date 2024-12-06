@@ -1,1 +1,1 @@
-3D model for MMSU fitness center using sketchup
+3D model of MMSU fitness center using sketchup
